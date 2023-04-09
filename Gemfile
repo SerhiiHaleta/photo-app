@@ -11,6 +11,14 @@ gem "devise"
 gem "twitter-bootstrap-rails"
 
 gem "devise-bootstrap-views"
+gem 'sass-rails'
+
+
+gem 'carrierwave'
+gem 'mini_magick'
+gem 'fog-aws'
+
+gem 'stripe'
 
 gem "jquery-rails"
 # The original asset pipeline for Rails [https://github.com/rails/sprockets-rails]
